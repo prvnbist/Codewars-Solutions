@@ -1,6 +1,10 @@
 # Codewars-Solutions
 A Repo Consisting of Codewars Solutions Written in Js.
 
+#### [6-Kyu] Multiples of 3 or 5
+[Question](https://www.codewars.com/kata/514b92a657cdc65150000006)
+[Solution](https://github.com/prvnbist/Codewars-Solutions/blob/master/6-Kyu/multiples-of-3-and-5.js)
+
 #### [7-kyu] Sum of the first nth term of Series 
 [Question](https://www.codewars.com/kata/555eded1ad94b00403000071)
 [Solution](https://github.com/prvnbist/Codewars-Solutions/blob/master/7-Kyu/sum-of-the-first-nth-term-of-series.js)
