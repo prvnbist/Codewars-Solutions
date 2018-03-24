@@ -12,3 +12,7 @@ A Repo Consisting of Codewars Solutions Written in Js.
 #### [7-Kyu] Digits explosion
 [Question](https://www.codewars.com/kata/585b1fafe08bae9988000314)
 [Solution](https://github.com/prvnbist/Codewars-Solutions/blob/master/7-Kyu/digits-explosion.js)
+
+#### [6-Kyu] Bit Counting
+[Question](https://www.codewars.com/kata/526571aae218b8ee490006f4)
+[Solution](https://github.com/prvnbist/Codewars-Solutions/blob/master/6-Kyu/bit-counting.js)
