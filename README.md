@@ -16,3 +16,7 @@ A Repo Consisting of Codewars Solutions Written in Js.
 #### [6-Kyu] Bit Counting
 [Question](https://www.codewars.com/kata/526571aae218b8ee490006f4)
 [Solution](https://github.com/prvnbist/Codewars-Solutions/blob/master/6-Kyu/bit-counting.js)
+
+#### [7-Kyu] Reversed Strings
+[Question](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
+[Solution](https://github.com/prvnbist/Codewars-Solutions/blob/master/7-Kyu/reversed-strings.js)
