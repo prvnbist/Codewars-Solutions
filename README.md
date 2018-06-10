@@ -1,7 +1,7 @@
 # Codewars-Solutions
 A Repo Consisting of Codewars Solutions Written in Js.
 
-#### [7-Kyu] Maximum Multiple
+#### [7-Kyu] Maximum Multiple  
 [Question](https://www.codewars.com/kata/5aba780a6a176b029800041c)
 [Solution](https://github.com/prvnbist/Codewars-Solutions/blob/master/7-Kyu/maximum-multiple.js)
 

@@ -7,3 +7,4 @@ let maxMultiple = (divisor, bound) => {
     }
     return divisor == 1 ? max : max - divisor;
 }
+
