@@ -1,6 +1,18 @@
 # Codewars-Solutions
 A Repo Consisting of Codewars Solutions Written in Js.
 
+#### [7-Kyu] Maximum Multiple
+[Question](https://www.codewars.com/kata/5aba780a6a176b029800041c)
+[Solution](https://github.com/prvnbist/Codewars-Solutions/blob/master/7-Kyu/maximum-multiple.js)
+
+#### [8-Kyu] Find the smallest integer in the array
+[Question](https://www.codewars.com/kata/55a2d7ebe362935a210000b2)
+[Solution](https://github.com/prvnbist/Codewars-Solutions/blob/master/8-Kyu/find-the-smallest-integer-in-the-array.js)
+
+#### [6-Kyu] Find the unique number
+[Question](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
+[Solution](https://github.com/prvnbist/Codewars-Solutions/blob/master/6-Kyu/find-the-unique-number.js)
+
 #### [7-Kyu] Arithmatic Progression
 [Question](https://www.codewars.com/kata/55caf1fd8063ddfa8e000018)
 [Solution](https://github.com/prvnbist/Codewars-Solutions/blob/master/7-Kyu/arithmatic-progression.js)
