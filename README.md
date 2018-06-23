@@ -1,6 +1,14 @@
 # Codewars-Solutions
 A Repo Consisting of Codewars Solutions Written in Js.
 
+#### [6-Kyu] Factorial Length
+[Question](https://www.codewars.com/kata/541c8630095125aba6000c00)
+[Solution](https://github.com/prvnbist/Codewars-Solutions/blob/master/6-Kyu/factorial-length.js)
+
+#### [6-Kyu] Sum of digits/Digital Roots
+[Question](https://www.codewars.com/kata/541c8630095125aba6000c00)
+[Solution](https://github.com/prvnbist/Codewars-Solutions/blob/master/6-Kyu/sum-of-digits.js)
+
 #### [7-Kyu] Maximum Multiple  
 [Question](https://www.codewars.com/kata/5aba780a6a176b029800041c)
 [Solution](https://github.com/prvnbist/Codewars-Solutions/blob/master/7-Kyu/maximum-multiple.js)
