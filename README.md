@@ -1,6 +1,15 @@
 # Codewars-Solutions
 A Repo Consisting of Codewars Solutions Written in Js.
 
+| No  | 6-Kyu  | 7-Kyu  | 8-Kyu  |
+|---|---|---|---|
+| 1  | Factorial Length  | Maximum Multiple | Find the smallest integer in the array |
+| 2 | Sum of digits/Digital Roots  | Arithmatic Progression |   |
+| 3 | Find the unique number | Sum of the first nth term of Series |   |
+| 4 |  Multiples of 3 or 5 | Digits explosion | |
+| 5 | Sort the odd | Reversed Strings | |
+| 6 | Bit Counting | | | 
+
 #### [6-Kyu] Factorial Length
 [Question](https://www.codewars.com/kata/541c8630095125aba6000c00)
 [Solution](https://github.com/prvnbist/Codewars-Solutions/blob/master/6-Kyu/factorial-length.js)
