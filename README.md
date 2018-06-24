@@ -3,13 +3,12 @@ A Repo Consisting of Codewars Solutions Written in Js.
 
 | No  | 6-Kyu  | 7-Kyu  | 8-Kyu  |
 |---|---|---|---|
-| 1  | Factorial Length  | Maximum Multiple | Find the smallest integer in the array |
-| 2 | Sum of digits/Digital Roots  | Arithmatic Progression |   |
-| 3 | Find the unique number | Sum of the first nth term of Series |   |
-| 4 |  Multiples of 3 or 5 | Digits explosion | |
-| 5 | Sort the odd | Reversed Strings | |
-| 6 | Bit Counting | | | 
-
+| 1  | [Factorial Length](https://github.com/prvnbist/Codewars-Solutions/blob/master/6-Kyu/factorial-length.js "Solution")  | [Maximum Multiple](https://github.com/prvnbist/Codewars-Solutions/blob/master/7-Kyu/maximum-multiple.js "Solution") | [Find the smallest integer in the array](https://github.com/prvnbist/Codewars-Solutions/blob/master/8-Kyu/find-the-smallest-integer-in-the-array.js "Solution") |
+| 2 | [Sum of digits/Digital Roots](https://github.com/prvnbist/Codewars-Solutions/blob/master/6-Kyu/sum-of-digits.js "Solution")  | [Arithmatic Progression](https://github.com/prvnbist/Codewars-Solutions/blob/master/7-Kyu/arithmatic-progression.js "Solution") |   |
+| 3 | [Find the unique number](https://github.com/prvnbist/Codewars-Solutions/blob/master/6-Kyu/find-the-unique-number.js "Solution") | [Sum of the first nth term of Series](https://github.com/prvnbist/Codewars-Solutions/blob/master/7-Kyu/sum-of-the-first-nth-term-of-series.js "Solution") |   |
+| 4 |  [Multiples of 3 or 5](https://github.com/prvnbist/Codewars-Solutions/blob/master/6-Kyu/multiples-of-3-and-5.js "Solution") | [Digits explosion](https://github.com/prvnbist/Codewars-Solutions/blob/master/7-Kyu/digits-explosion.js "Solution") | |
+| 5 | [Sort the odd](https://github.com/prvnbist/Codewars-Solutions/blob/master/6-Kyu/sort-the-odd.js "Solution") | [Reversed Strings](https://github.com/prvnbist/Codewars-Solutions/blob/master/7-Kyu/reversed-strings.js "Solution") | |
+| 6 | [Bit Counting](https://github.com/prvnbist/Codewars-Solutions/blob/master/6-Kyu/bit-counting.js "Solution") | | |
 #### [6-Kyu] Factorial Length
 [Question](https://www.codewars.com/kata/541c8630095125aba6000c00)
 [Solution](https://github.com/prvnbist/Codewars-Solutions/blob/master/6-Kyu/factorial-length.js)
